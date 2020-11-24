@@ -18,3 +18,13 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+
+Η λύση που έκανα για αυτή την άσκηση:
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p2019136" data-slug-hash="ExgYVgO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter">
+  <span>See the Pen <a href="https://codepen.io/p2019136/pen/ExgYVgO">
+  image filter</a> by Theophilos Panagiotis Papadopoulos (<a href="https://codepen.io/p2019136">@p2019136</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
