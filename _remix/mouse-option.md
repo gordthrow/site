@@ -16,3 +16,12 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας περισσότερες επιλογές στη φόρμα περιεχομένων. Δοκιμάστε να φέρετε δυναμικά στη σελίδα διαφορετικό περιεχόμενο (π.χ. εικόνες).
+
+
+Η λύση μου για αυτή την άσκηση :
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p2019136" data-slug-hash="yLaoqOW" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="mouse option">
+  <span>See the Pen <a href="https://codepen.io/p2019136/pen/yLaoqOW">
+  mouse option</a> by Theophilos Panagiotis Papadopoulos (<a href="https://codepen.io/p2019136">@p2019136</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
