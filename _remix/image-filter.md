@@ -27,4 +27,4 @@ tags:
   image filter</a> by Theophilos Panagiotis Papadopoulos (<a href="https://codepen.io/p2019136">@p2019136</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"> </script>
